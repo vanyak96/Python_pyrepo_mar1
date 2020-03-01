@@ -1,0 +1,1 @@
+print("nishit e karyu")
